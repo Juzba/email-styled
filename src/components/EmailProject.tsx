@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./Email.scss";
+import "./EmailProject.scss";
 import UseAxios from "../hooks/UseAxios";
 
 const url = "https://localhost:7181/Email/send";

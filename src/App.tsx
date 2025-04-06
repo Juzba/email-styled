@@ -1,4 +1,4 @@
-import Email from "./components/Email";
+import Email from "./components/EmailProject";
 
 const App = () => {
 	return (
